@@ -1,0 +1,1 @@
+SELECT * FROM olympicsdata.table2;
